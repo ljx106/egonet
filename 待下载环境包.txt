@@ -1,0 +1,6 @@
+https://conda.anaconda.org/pytorch/linux-64/pytorch-1.6.0-py3.7_cuda9.2.148_cudnn7.6.3_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/cudatoolkit-9.2-0.tar.bz2
+https://conda.anaconda.org/pytorch/linux-64/torchvision-0.7.0-py37_cu92.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/py-opencv-3.4.2-py37hb342d67_1.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.5.2-py37h0b6359f_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/opencv-3.4.2-py37h6fd60c2_1.tar.bz2
